@@ -3,8 +3,8 @@ Get info from IP
 
 https://i.imgur.com/BCb73Lz.png
 
-pip install ip2geotools
-pip install time
-pip install json
+1. pip install ip2geotools   
+2. pip install time   
+3. pip install json   
 
 my telegram: @pablophi_dev
